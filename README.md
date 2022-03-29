@@ -4,14 +4,14 @@ This respository conists of data analysis projects completed using Python librar
 
 The project merge 12 months worth of sales data and cleans it up. Simple analysis of the sales data has been done. 
 
-##A. Organising Data
+A. Organising Data
 A.1 Merge 12 months of data into a single file
 A.2 Clean up NaN Values in dataframe
 A.3 Clean up invalid rows
 A.4 Add column 'Month'
 A.5 Add column 'Sales'
 
-##B Analysing data
+B Analysing data
 B.1 What is the best month for sale? How much was earned that month?
 A.6 Add column 'City'
 B. 2 Which city has the highest number of sales?
